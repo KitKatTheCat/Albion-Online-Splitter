@@ -1,0 +1,41 @@
+.navbar{
+  background-color: #FFE378;
+  width: 96rem;
+}
+
+.navbar-brand{
+  color: black;
+}
+
+.content{
+  height: 35.3rem;
+  display: grid;
+  grid-template-columns: repeat(2, 35rem);
+}
+
+.table {
+  padding: 3rem;
+}
+
+.split{
+  padding: 3rem;
+}
+
+.splitter{
+  padding: 3rem;
+}
+
+.Inputs{
+  display: grid;
+  grid-template-columns: repeat(2, 35rem);
+}
+
+.input-group{
+  padding-left: 3rem;
+  width: 250px;
+}
+
+.made{
+  padding: 1rem;
+  padding-bottom: 0;
+}
